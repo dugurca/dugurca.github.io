@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Game of Life 3D"
-date:   2016-05-22 22:30:34 +0300
+date:   2016-05-27 22:30:34 +0300
 categories: cv
 ---
 Today was a good day, so I implemented Conway's game of life in 3D in Unity.
